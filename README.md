@@ -22,6 +22,15 @@ You can incorporate additional details as follows:
 - **Grade Calculation:** Assign grades based on the average percentage achieved.
 - **Display Results:** Show the total marks, average percentage, and the corresponding grade to the user
 
+## ATM INTERFACE (Task 3) 🏧💳🏦✨
+
+1. Create a class to represent the ATM machine.
+2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
+3. Implement methods for each option, such as withdraw(amount), deposit(amount), and check Balance().
+4. Create a class to represent the user's bank account, which stores the account balance.
+5. Connect the ATM class with the user's bank account class to access and modify the account balance.
+6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
+7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
 ## Installation 🛠️
 - Just, Clone this repository - 
