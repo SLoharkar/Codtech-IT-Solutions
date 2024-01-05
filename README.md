@@ -32,6 +32,15 @@ You can incorporate additional details as follows:
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
+## CURRENCY CONVERTER (Task 4) 💸🌐🔄✨
+
+- **Currency Selection:** Allow the user to choose the base currency and the target currency.
+- **Currency Rates:** Fetch real-time exchange rates from a reliable API.
+- **Amount Input:** Take input from the user for the amount they want to convert.
+- **Currency Conversion:** Convert the input amount from the base currency to the target currency using the fetched exchange rate.
+- **Display Result:** Show the converted amount and the target currency symbol to the user.
+
+
 ## Installation 🛠️
 - Just, Clone this repository - 
 ````bash 
