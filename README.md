@@ -46,6 +46,11 @@ You can incorporate additional details as follows:
 - take turns placing their marks on a 3x3 grid. 
 - The program should check for wins, draws, and handle invalid moves.
 
+## Basic Calculator (Task 6) 🖩🔢👨🏻‍💻✨
+
+- Create a simple console-based calculator
+- that can perform basic mathematical operations like addition, subtraction, multiplication, and division. 
+- Allow users to input numbers and choose the operation they want to perform.
 
 ## Installation 🛠️
 - Just, Clone this repository - 
