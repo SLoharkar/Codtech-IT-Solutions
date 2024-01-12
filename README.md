@@ -40,6 +40,12 @@ You can incorporate additional details as follows:
 - **Currency Conversion:** Convert the input amount from the base currency to the target currency using the fetched exchange rate.
 - **Display Result:** Show the converted amount and the target currency symbol to the user.
 
+## Tic-Tac-Toe Game (Task 5) ⭕❌🎮🕹️✨
+
+- Develop a text-based Tic-Tac-Toe game where two players (human vs human or human vs computer) 
+- take turns placing their marks on a 3x3 grid. 
+- The program should check for wins, draws, and handle invalid moves.
+
 
 ## Installation 🛠️
 - Just, Clone this repository - 
