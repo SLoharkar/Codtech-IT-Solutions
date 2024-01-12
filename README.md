@@ -46,11 +46,18 @@ You can incorporate additional details as follows:
 - take turns placing their marks on a 3x3 grid. 
 - The program should check for wins, draws, and handle invalid moves.
 
-## Basic Calculator (Task 6) 🖩🔢👨🏻‍💻✨
+## Basic Calculator (Task 6) 🔢👨🏻‍💻✨
 
 - Create a simple console-based calculator
 - that can perform basic mathematical operations like addition, subtraction, multiplication, and division. 
 - Allow users to input numbers and choose the operation they want to perform.
+
+## Student Grade Management System (Task 7) 💯📚🎒👨🏻‍💻✨
+
+- Design a program that can store student information (name, roll number, subject marks) 
+- and calculate their overall percentage and grade based on pre-defined grade criteria. 
+- Include the ability to add, update, and delete student records.
+
 
 ## Installation 🛠️
 - Just, Clone this repository - 
