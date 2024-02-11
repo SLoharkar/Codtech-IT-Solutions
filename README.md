@@ -1,6 +1,4 @@
-# CODETECH IT SOLUTIONS 🚀
-
-🎉 Java Developer Internship at CODETECH IT SOLUTIONS 👨‍💻
+# Java Developer Internship 👨‍💻
 
 
 ## NUMBER GAME (Task 1) 🎮✨
@@ -62,6 +60,6 @@ You can incorporate additional details as follows:
 ## Installation 🛠️
 - Just, Clone this repository - 
 ````bash 
-git clone https://github.com/SLoharkar/CODETECH-IT-SOLUTIONS.git
+git clone https://github.com/SLoharkar/Java-Developer-Internship.git
 ````
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
