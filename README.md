@@ -1,4 +1,4 @@
-# Java Developer Internship 👨‍💻
+# Java Developer Internship at Codtech IT Solutions 👨‍💻
 
 
 ## NUMBER GAME (Task 1) 🎮✨
